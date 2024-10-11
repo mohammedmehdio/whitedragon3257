@@ -1,4 +1,7 @@
-# Hello, Devs!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello,Devs!&height=170&section=header"/>
+</p>
+
 
                                                            .                                         
                                                 ..      .:+:                                         
